@@ -1,5 +1,5 @@
 <?php
-	echo "Hello Dunia";
+	echo "Hello world";
 
 	$depan = "ririn";
 	$belakang ="syaputri"
